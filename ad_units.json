@@ -1,7 +1,6 @@
 {
-  "android_app_id": "",
-  "banner_ad_unit_id": "",
-  "interstitial_ad_unit_id": "", 
-  "rewarded_ad_unit_id": "",
-  "app_open_ad_unit_id": ""
+  "banner": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "rewarded": "ca-app-pub-3940256099942544/5224354917",
+  "appOpen": "ca-app-pub-3940256099942544/3419835294"
 }
